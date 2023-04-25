@@ -24,7 +24,7 @@ This project is specifically targetting the back end of an e-commerce website. W
 
 ## Visuals
 
-Here is a link to a demo video walking a user through the application.
+Here is a demo video walking a user through the application.
 
 https://user-images.githubusercontent.com/118483617/234403622-6bcb59c1-39d4-42c7-b094-b73c93146cb3.mp4
     
