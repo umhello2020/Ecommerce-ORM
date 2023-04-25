@@ -2,7 +2,7 @@
 
 ## Description
     
-This project is specifically targetting the back end of an e-commerce website. While working on this, I really gathered a targetted understanding of models and routes working together. With this application a user will be able to source and seed a database, along with starting up the server. They will also be able to make CRUD requests to the database for the category, product, and tag/product tag. The organization of this application will make the user experience very simple. Here is a link to the deployed application: 
+This project is specifically targetting the back end of an e-commerce website. While working on this, I really gathered a targetted understanding of models and routes working together. With this application a user will be able to source and seed a database, along with starting up the server. They will also be able to make CRUD requests to the database for the category, product, and tag/product tag. The organization of this application will make the user experience very simple. Here is a link to the deployed application: https://dashboard.heroku.com/apps/e-commerce-orm-1
     
 ## Table of Contents
 [Title](#-e-commerce-orm)
